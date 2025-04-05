@@ -1,0 +1,7 @@
+digraph {
+	0 [label="X2 < 2.5"]
+	1 [label="Leaf: -1.00"]
+	2 [label="Leaf: 3.00"]
+	0 -> 1 [label=Yes]
+	0 -> 2 [label=No]
+}
