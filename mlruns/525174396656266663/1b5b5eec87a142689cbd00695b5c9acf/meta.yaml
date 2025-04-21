@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/saprativasarkar/Desktop/ML/9_ML_Practicals/mlruns/525174396656266663/1b5b5eec87a142689cbd00695b5c9acf/artifacts
+end_time: 1745272952550
+entry_point_name: ''
+experiment_id: '525174396656266663'
+lifecycle_stage: active
+run_id: 1b5b5eec87a142689cbd00695b5c9acf
+run_name: XGBClassifier With SMOTE
+run_uuid: 1b5b5eec87a142689cbd00695b5c9acf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745272950777
+status: 3
+tags: []
+user_id: saprativasarkar

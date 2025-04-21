@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/saprativasarkar/Desktop/ML/9_ML_Practicals/mlruns/525174396656266663/317a647fc8fa429fbf3251351d3f9a55/artifacts
+end_time: 1745272950768
+entry_point_name: ''
+experiment_id: '525174396656266663'
+lifecycle_stage: active
+run_id: 317a647fc8fa429fbf3251351d3f9a55
+run_name: XGBClassifier
+run_uuid: 317a647fc8fa429fbf3251351d3f9a55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745272948864
+status: 3
+tags: []
+user_id: saprativasarkar

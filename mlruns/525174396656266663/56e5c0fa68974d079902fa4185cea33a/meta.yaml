@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/saprativasarkar/Desktop/ML/9_ML_Practicals/mlruns/525174396656266663/56e5c0fa68974d079902fa4185cea33a/artifacts
+end_time: 1745272947157
+entry_point_name: ''
+experiment_id: '525174396656266663'
+lifecycle_stage: active
+run_id: 56e5c0fa68974d079902fa4185cea33a
+run_name: Logistic Regression
+run_uuid: 56e5c0fa68974d079902fa4185cea33a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745272943917
+status: 3
+tags: []
+user_id: saprativasarkar

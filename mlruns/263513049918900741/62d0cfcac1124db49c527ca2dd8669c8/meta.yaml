@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/saprativasarkar/Desktop/ML/9_ML_Practicals/mlruns/263513049918900741/62d0cfcac1124db49c527ca2dd8669c8/artifacts
+end_time: 1745272359482
+entry_point_name: ''
+experiment_id: '263513049918900741'
+lifecycle_stage: active
+run_id: 62d0cfcac1124db49c527ca2dd8669c8
+run_name: receptive-owl-528
+run_uuid: 62d0cfcac1124db49c527ca2dd8669c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745272356164
+status: 3
+tags: []
+user_id: saprativasarkar
